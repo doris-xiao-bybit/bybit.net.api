@@ -1,0 +1,32 @@
+docs/superpowers/specs/2026-10-10-bybit-api-contract-fixes-design.md
+  s_760809f4e0ab6e::t_ebd52d0ce2768e 1-51
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2-bit.2+419f699",
+  "base_commit_sha": "3530f1ee8e4ff70dafac89d4855a8d59f10dc170",
+  "prompts": {
+    "1f8d78707ef66f63": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fedd4352-1e31-4809-b1a8-45a46e2946a0",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "doris-xiao-bybit <doris.xiao@bybit.com>",
+      "total_additions": 3050,
+      "total_deletions": 0,
+      "accepted_lines": 3050,
+      "overriden_lines": 0
+    }
+  },
+  "sessions": {
+    "s_760809f4e0ab6e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12356-afb9-7ee3-9165-8719b44d8da2",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "doris-xiao-bybit <doris.xiao@bybit.com>"
+    }
+  }
+}
