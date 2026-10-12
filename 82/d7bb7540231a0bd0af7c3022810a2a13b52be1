@@ -1,0 +1,41 @@
+Src/Common/ApiServiceImp/BybitAssetService.cs
+  s_760809f4e0ab6e::t_1a577e6e6f4bfa 997-1071
+Src/Common/ApiServiceImp/BybitSpotMarginService.cs
+  s_760809f4e0ab6e::t_228f6a8a39d4c5 708-736
+Src/Common/ApiServiceImp/BybitPositionService.cs
+  s_760809f4e0ab6e::t_61ec85beeff219 347-363
+Src/Common/ApiServiceImp/BybitAccountService.cs
+  s_14731aa45014cc::t_43eada845ff981 662-676
+Src/Common/ApiServiceImp/BybitLendingService.cs
+  s_14731aa45014cc::t_ee0b898adfea4f 208-243
+Src/Common/ApiServiceImp/BybitNewCryptoLoanService.cs
+  s_14731aa45014cc::t_8e7ab7115bb123 277-305
+Src/Common/ApiServiceImp/BybitUserService.cs
+  s_760809f4e0ab6e::t_6a26a83c9f9ee8 667-676
+Src/Common/bybit.net.api.csproj
+  s_760809f4e0ab6e::t_a313b37db5da05 28-29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2-bit.2+419f699",
+  "base_commit_sha": "82d7bb7540231a0bd0af7c3022810a2a13b52be1",
+  "prompts": {},
+  "sessions": {
+    "s_14731aa45014cc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a11a25-078f-7d13-b8c5-a1f8f61777b2",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "doris-xiao-bybit <doris.xiao@bybit.com>"
+    },
+    "s_760809f4e0ab6e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12356-afb9-7ee3-9165-8719b44d8da2",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "doris-xiao-bybit <doris.xiao@bybit.com>"
+    }
+  }
+}
