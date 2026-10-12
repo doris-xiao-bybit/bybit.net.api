@@ -1,0 +1,22 @@
+Tests/bybit.api.test/Tests/P2PServiceSigningTests.cs
+  s_760809f4e0ab6e::t_336bb866cd86a1 19-20,26-28,30-31,136-159,162
+  s_760809f4e0ab6e::t_b283a8225f30ec 82-106,112-135,160-161
+Src/Common/ApiServiceImp/BybitP2PService.cs
+  s_760809f4e0ab6e::t_dab75008a17fd7 7,562-576
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2-bit.2+419f699",
+  "base_commit_sha": "564c4a95e6f5bfd4cf3cbb663abcc3cf89fd0521",
+  "prompts": {},
+  "sessions": {
+    "s_760809f4e0ab6e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12356-afb9-7ee3-9165-8719b44d8da2",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "doris-xiao-bybit <doris.xiao@bybit.com>"
+    }
+  }
+}
