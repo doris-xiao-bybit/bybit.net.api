@@ -1,0 +1,25 @@
+Src/Common/Services/BybitService.cs
+  s_760809f4e0ab6e::t_db7368ad92321e 128-176
+Src/Common/ApiServiceImp/BybitEarnService.cs
+  s_760809f4e0ab6e::t_db7368ad92321e 1515-1545
+Src/Common/ApiServiceImp/BybitMarketDataService.cs
+  s_760809f4e0ab6e::t_db7368ad92321e 518-531
+Tests/bybit.api.test/Tests/QueryCollectionContractTests.cs
+  s_760809f4e0ab6e::t_405991aa2144b5 1-67
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2-bit.2+419f699",
+  "base_commit_sha": "8ab37eec4b25a6dc2b221dfbdacaf35c68db59ea",
+  "prompts": {},
+  "sessions": {
+    "s_760809f4e0ab6e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12356-afb9-7ee3-9165-8719b44d8da2",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "doris-xiao-bybit <doris.xiao@bybit.com>"
+    }
+  }
+}
