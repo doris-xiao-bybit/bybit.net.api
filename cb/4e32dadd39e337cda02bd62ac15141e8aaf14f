@@ -1,0 +1,21 @@
+Src/Common/Services/BybitService.cs
+  s_5dd6860366e0d4::t_83df2d7b5d80f9 153-157
+Tests/bybit.api.test/Tests/QueryCollectionContractTests.cs
+  s_5dd6860366e0d4::t_13bdfe193e7857 42-63
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2-bit.2+419f699",
+  "base_commit_sha": "cb4e32dadd39e337cda02bd62ac15141e8aaf14f",
+  "prompts": {},
+  "sessions": {
+    "s_5dd6860366e0d4": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a13470-0cdb-7e13-9ca8-e4376580923b",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "doris-xiao-bybit <doris.xiao@bybit.com>"
+    }
+  }
+}
