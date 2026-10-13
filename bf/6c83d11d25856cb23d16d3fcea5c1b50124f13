@@ -1,0 +1,32 @@
+Src/Common/ApiServiceImp/BybitAssetService.cs
+  s_5dd6860366e0d4::t_cd390b061fb62c 1067
+Src/Common/Services/BybitService.cs
+  s_5dd6860366e0d4::t_cd390b061fb62c 112-113,116-120
+Tests/bybit.api.test/AccountServiceTest.cs
+  s_5dd6860366e0d4::t_ae517f06be9514 7-9,30-32,40-42,51-57,64-79
+Tests/bybit.api.test/Tests/P2PServiceSigningTests.cs
+  s_5dd6860366e0d4::t_06606e845b20d6 85-87,90,103-109,118-120,123,129-131,139-140
+  s_5dd6860366e0d4::t_f618bae72bc057 100-102,138
+Tests/bybit.api.test/PositionServiceTest.cs
+  s_5dd6860366e0d4::t_ae517f06be9514 34,44,55,68,78
+Src/Common/Security/BybitHmacSignatureGenerator.cs
+  s_5dd6860366e0d4::t_cd390b061fb62c 40-48,67-76
+Tests/bybit.api.test/Tests/AssetServiceEndpointTests.cs
+  s_5dd6860366e0d4::t_06606e845b20d6 169-183
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2-bit.2+419f699",
+  "base_commit_sha": "bf6c83d11d25856cb23d16d3fcea5c1b50124f13",
+  "prompts": {},
+  "sessions": {
+    "s_5dd6860366e0d4": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a13470-0cdb-7e13-9ca8-e4376580923b",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "doris-xiao-bybit <doris.xiao@bybit.com>"
+    }
+  }
+}
